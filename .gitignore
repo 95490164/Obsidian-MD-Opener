@@ -1,0 +1,13 @@
+/bin/
+/test-output/
+/tests/work-*/
+/data/
+/logs/
+/backup/
+/Obsidian-MD-Opener.zip
+**/.obsidian/
+*.log
+*.exe
+*.pdb
+.env
+.env.*
